@@ -37,7 +37,8 @@ Following searches for all the sites that is in the domain yahoo.com
 
 ## Output:
 
-<img width="1894" height="1025" alt="image" src="https://github.com/user-attachments/assets/f96e83b7-30d1-4849-bac6-83cca892e228" />
+<img width="1920" height="1200" alt="site" src="https://github.com/user-attachments/assets/4dc0c528-96c1-4f89-a917-22924c0df8d5" />
+
 
 ### Summary
 
@@ -60,7 +61,8 @@ Following searches for pdf file in the domain yahoo.com
 
 ## Output:
 
-<img width="1895" height="1027" alt="image" src="https://github.com/user-attachments/assets/2b174212-cbf9-454f-864f-25ba16932dbc" />
+<img width="1920" height="1200" alt="filetype" src="https://github.com/user-attachments/assets/b02992e1-01a7-4586-bb7e-f00bf5d0838d" />
+
 
 
 ### Summary
@@ -82,7 +84,8 @@ intext: This operator allows you to search for pages that contain specific text 
 
 ## Output:
 
-<img width="1900" height="1030" alt="image" src="https://github.com/user-attachments/assets/f126a106-f657-41d3-ba1d-4783260615ec" />
+<img width="1920" height="1200" alt="intext" src="https://github.com/user-attachments/assets/32222c0e-8501-4c9a-a4cf-6679a340d577" />
+
 
 
 ### Summary
@@ -104,7 +107,8 @@ inurl: This operator allows you to search for pages that contain specific text w
 
 ## Output:
 
-<img width="1894" height="1028" alt="image" src="https://github.com/user-attachments/assets/bd53a677-2aff-49a6-b71a-dfb5e5be0cc2" />
+<img width="1920" height="1200" alt="inurl" src="https://github.com/user-attachments/assets/c30260ab-cc32-461b-b616-7990594cbd9b" />
+
 
 ### Summary
 
@@ -127,7 +131,8 @@ intitle: This operator allows you to search for pages that contain specific text
 
 ## Output:
 
-<img width="1885" height="1026" alt="image" src="https://github.com/user-attachments/assets/3d5703e7-0237-4bbd-b5f7-3ac6e22923c2" />
+<img width="1920" height="1200" alt="inurl" src="https://github.com/user-attachments/assets/fea0e24e-a575-4e34-9d10-d708fecb106b" />
+
 
 ### Summary
 
@@ -172,7 +177,8 @@ cache: This operator allows you to view the cached version of a page. For exampl
 
 ## Output:
 
-<img width="1898" height="1027" alt="image" src="https://github.com/user-attachments/assets/68549825-d98a-4891-8300-fa32e072333a" />
+<img width="1920" height="1200" alt="cache" src="https://github.com/user-attachments/assets/d6aa7116-4a06-4718-b516-4a890552ca5a" />
+
 
 
 ### Summary
